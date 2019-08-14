@@ -1,0 +1,7 @@
+1. 进入nodejs_serve 文件
+
+2、运行 yarn 安装依赖
+
+3、执行node  app.js  运行
+
+4、访问  http://127.0.0.1:3000
